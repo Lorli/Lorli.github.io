@@ -1,0 +1,14 @@
+{
+ "name": "My Awesome Emote Pack", // the name of your emote pack
+ "author": "Lorli", // your name
+ "emotes": [ // list of emotes in this pack
+ {
+ "name": "thumbs_up_joe",
+ "url": "https://emoji.gg/emoji/58588-thumbs-up-joe"
+ },
+ {
+ "name": "joeAMAZED",
+ "url": "[![joeAMAZED](https://cdn3.emoji.gg/emojis/9256-joeamazed.png)](https://emoji.gg/emoji/9256-joeamazed)"
+ }
+ ]
+}
